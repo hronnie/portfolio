@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hronnie/portfolio.git"
+  },
+  "author": "Aron Harsfalvi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hronnie/portfolio/issues"
+  },
+  "homepage": "https://github.com/hronnie/portfolio#readme"
+}
