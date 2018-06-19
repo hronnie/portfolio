@@ -7,7 +7,9 @@
     "example": "examples",
     "test": "test"
   },
-  "dependencies": {},
+  "dependencies": {
+    "helmet": "^3.12.1"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "mocha"
