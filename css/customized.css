@@ -13,6 +13,7 @@
 .polaroid > img{
     max-width: 100%;
     height: auto;
+    border-radius: 5px;
 }
 
 .caption {
@@ -25,7 +26,7 @@
     width: 100%;
     display: inline-block;
     margin-top: 2rem;
-    filter: grayscale(40%);
+    filter: grayscale(20%);
 }
 
 .polaroid-item .polaroid:before {
@@ -36,7 +37,7 @@
 }
 
 .polaroid-item:nth-of-type(4n+1) {
-    transform: scale(0.8, 0.8) rotate(5deg);
+    transform: scale(0.8, 0.8) rotate(1deg);
     transition: all 0.35s;
 }
 
